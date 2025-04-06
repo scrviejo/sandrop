@@ -1,0 +1,2297 @@
+ {
+  "name": "SandroP",
+  "author": "Sapo",
+  "url": "https://pastebin.com/tKXBtTsC",
+  "epg": "",
+  "image": "https://images8.alphacoders.com/476/476725.jpg",
+  "info": "SANDROP",
+  
+  "groups": [
+    { 
+    
+      "name": "FUTBOL DE PERÚ",
+      "image": "https://images8.alphacoders.com/476/476725.jpg",
+      "stations": [
+			{
+			"name": "AGENDA",
+			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
+			"url": "https://tucanaldeportivo.org/agenda.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "SANDRO TV",
+			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
+			"url": "https://sandroptv.blogspot.com/2024/10/canales.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "GOL PERU HD",
+			"image": "https://www.telegratishd.com/imge/golperu.png",
+			"url": "https://tucanaldeportivo.org/golperu.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+},
+{
+			"name": "GOL PERU HD",
+			"image": "https://www.telegratishd.com/imge/golperu.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/gol-peru/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+},
+{
+			"name": "GOL PERU HD",
+			"image": "https://www.telegratishd.com/imge/golperu.png",
+			"url": "https://jac-tv.com/tv/golperu.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA 1 MAX SANDRO",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-betano.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+},
+
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-1.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+},
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-roja.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+},
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://jac-tv.com/tv/liga1.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA 1 MAX","image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": 		"http://31.42.185.216:8000/GregorioS/Santos52/159457",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+			},
+{
+			"name": "LIGA 1 MAX",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://tucanaldeportivo.org/liga1maxpe.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+
+
+
+
+
+
+
+
+
+
+}
+      ]
+    },
+    {
+ 
+      "name": "TU CANAL DEPORTIVO",
+      "image": "https://images8.alphacoders.com/476/476725.jpg",
+      "stations": [
+{
+			"name": "AGENDA",
+			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
+			"url": "https://tucanaldeportivo.org/agenda.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DIRECTV GO",
+			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
+			"url": "https://sandroptv.blogspot.com/2024/08/dgos.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+},
+{
+			"name": "DIRECTV GO",
+			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
+			"url": "https://tucanaldeportivo.org/dsports-sharecast.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+},
+
+{
+			"name": "DIRECTV HD",
+			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
+			"url": "https://deporte-libre.futbol/en-vivo-online/dsports/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DIRECTV 2",
+			"image": "https://lh3.googleusercontent.com/-mpyR1Shwq0U/Y-UlblE5I8I/AAAAAAAAGw8/2qfxqnrlSqQF7c2stKEAwxrvOAyX3EYiACNcBGAsYHQ/h120/DSports_2.png",
+			"url": "https://tucanaldeportivo.org/dsports2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DIRECTV 2",
+			"image": "https://lh3.googleusercontent.com/-mpyR1Shwq0U/Y-UlblE5I8I/AAAAAAAAGw8/2qfxqnrlSqQF7c2stKEAwxrvOAyX3EYiACNcBGAsYHQ/h120/DSports_2.png",
+			"url": "https://deporte-libre.futbol/en-vivo-online/dsports-2/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DIRECTV +",
+			"image": "https://www.telelatinohd.com/imge/directvsportsplus.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/dsports-plus/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
+			"url": "https://tucanaldeportivo.org/espnhd.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
+			"url": "https://tucanaldeportivo.org/espn-sharecast.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/espn/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN DEPORTES",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://tucanaldeportivo.org/espndeportes.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN DEPORTES",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://jac-tv.com/tv/espndepmx.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 2 HD",
+			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
+			"url": "https://tucanaldeportivo.org/espn2hd.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 2 HD",
+			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
+			"url": "https://tucanaldeportivo.org/espn2-sharecast.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 2 HD",
+			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
+			"url": "https://deporte-libre.fans/en-vivo-online/espn-2/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 2 MX",
+			"image": "https://ligatv.televall.online/gallery/espn-2-mexico_thumb.png",
+			"url": "https://ligatv.televall.online/gallery/espn-2-mexico_thumb.png",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 3",
+			"image": "https://ligatv.televall.online/gallery/espn-3-mexico_thumb.png",
+			"url": "https://tucanaldeportivo.org/espn3hd.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 3",
+			"image": "https://ligatv.televall.online/gallery/espn-3-mexico_thumb.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/espn-3/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 4",
+			"image": "https://www.telegratishd.com/imge/espn4.png",
+			"url": "https://tucanaldeportivo.org/espn4.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 4",
+			"image": "https://www.telegratishd.com/imge/espn4.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/espn-4/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS",
+			"image": "https://www.telegratishd.com/imge/foxsports.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS MX",
+			"image": "https://www.telegratishd.com/imge/foxsports.png",
+			"url": "https://tucanaldeportivo.org/foxsportsmx.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX DEPORTES",
+			"image": "https://tvcablegratis.tv/wp-content/uploads/2022/04/FOX-DEPORTES-1-160x240.jpg",
+			"url": "https://www.directatvhd.me/Fox%20Deportes.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS 2",
+			"image": "https://www.telegratishd.com/imge/foxsports2.png",
+			"url": "https://tucanaldeportivo.org/foxsports2mx.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS 2",
+			"image": "https://www.telegratishd.com/imge/foxsports2.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports-2/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS 3",
+			"image": "https://www.telegratishd.com/imge/foxsports3.png",
+			"url": "https://tucanaldeportivo.org/foxsports3.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS 3",
+			"image": "https://www.telegratishd.com/imge/foxsports3.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports-3/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS 3",
+			"image": "https://www.telegratishd.com/imge/foxsports3.png",
+			"url": "https://www.directatvhd.me/fox-sport-3-en-vivo.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN PREMIUN",
+			"image": "https://www.telegratishd.com/imge/espnpremium.png",
+			"url": "https://tucanaldeportivo.org/espnpremium.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN PREMIUN",
+			"image": "https://www.telegratishd.com/imge/espnpremium.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/espn-premium/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TNT SPORTS SD",
+			"image": "https://www.telegratishd.com/imge/tntsports.png",
+			"url": "https://jac-tv.com/tv/tntsp.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TNT SPORTS SD",
+			"image": "https://www.telegratishd.com/imge/tntsports.png",
+			"url": "https://tucanaldeportivo.org/tntsports.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TUDN",
+			"image": "https://www.telegratishd.com/imge/tudn.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/tudn/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TYC",
+			"image": "https://www.telegratishd.com/imge/tycsports.png",
+			"url": "https://tucanaldeportivo.org/tycsports-sd.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX DEPORTES",
+			"image": "https://tvcablegratis.tv/wp-content/uploads/2022/04/FOX-DEPORTES-2-160x240.jpg",
+			"url": "https://tucanaldeportivo.org/foxdeportes.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "MOVISTAR DEPORTES",
+			"image": "https://i.imgur.com/6VAaN8m.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/deportes-peru/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DAZN LA LIGA",
+			"image": "https://www.telegratishd.com/imge/daznlaliga1.png",
+			"url": "https://deporte-libre.fans/en-vivo-online/dazn-1-es/embed2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS PEMIUN",
+			"image": "https://www.telegratishd.com/imge/foxsportspremium.png",
+			"url": "https://tucanaldeportivo.org/foxsportspremium.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+	
+
+
+
+
+
+
+
+
+}
+      ]
+    },
+    {
+    
+      "name": "PERU",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Infantiles.png",
+      "stations": [
+
+{
+			"name": "AMERICA TV",
+			"image": "https://www.telegratishd.com/imge/americatv.png",
+			"url": "https://sandroptv.blogspot.com/2023/04/america-tv.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "SAPO - AMERICA TV",
+			"image": "https://www.telegratishd.com/imge/americatv.png",
+			"url": "https://tucanaldeportivo.org/america.php",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+{
+			"name": "AMERICA TV GO",
+			"image": "https://www.telegratishd.com/imge/americatv.png",
+			"url": "https://tvgo.americatv.com.pe/",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LATINA",
+			"image": "https://www.telegratishd.com/imge/latina.png",
+			"url": "https://streamplayweb.com/tv2/latina.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LATINA TV",
+			"image": "https://www.telegratishd.com/imge/latina.png",
+			"url": "https://sandroptv.blogspot.com/2023/06/latina.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LATINA TV",
+			"image": "https://www.telegratishd.com/imge/latina.png",
+			"url": "https://www.latina.pe/tvenvivo",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LATINA",
+			"image": "https://www.telegratishd.com/imge/latina.png",
+			"url": "https://www.telegratishd.com/latina-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "PANAMERICANA TV",
+			"image": "http://peru.mom-gmr.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_039be0b331.png",
+			"url": "https://sandroptv.blogspot.com/2023/05/panamericana.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ATV",
+			"image": "https://www.telegratishd.com/imge/atv.png",
+			"url": "https://sandroptv.blogspot.com/2023/05/atv.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ATV",
+			"image": "https://www.telegratishd.com/imge/atv.png",
+			"url": "https://www.telegratishd.com/atv-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ATV","image": "https://www.tvplusgratis.com/imge/liga1max1.png",
+			"url": 		"https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+			},
+{
+			"name": "ATV +",
+			"image": "https://www.telegratishd.com/imge/atvmas.png",
+			"url": "https://www.telegratishd.com/atv-mas-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "CANAL N",
+			"image": "https://www.telegratishd.com/imge/canaln.png",
+			"url": "https://www.telegratishd.com/canal-n-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "EXITOSA",
+			"image": "https://www.telegratishd.com/imge/exitosa.png",
+			"url": "https://cu.onliv3.com/exitosa/",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA MAX",
+			"image": "https://www.telegratishd.com/imge/liga1maxxx.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-roja.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA MAX NUEVO",
+			"image": "https://www.telegratishd.com/imge/liga1maxxx.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-peru.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA MAX 1",
+			"image": "https://www.telegratishd.com/imge/liga1maxxx.png",
+			"url": "https://www.telegratishd.com/liga-1-max-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "GOL PERU",
+			"image": "https://www.telelatinohd.com/imge/golperu.png",
+			"url": "https://www.televisiongratishd.com/gol-peru-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "MOVISTAR DEPORTES",
+			"image": "https://i.imgur.com/6VAaN8m.png",
+			"url": "https://www.telextrema.com/movistar-deportes-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TV PERU",
+			"image": "https://www.telegratishd.com/imge/tvperu.png",
+			"url": "http://zoetv.peru15.com/tv-nacional/tv-noticias-7-3",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+
+
+
+
+
+
+
+
+}
+      ]
+    },
+    {
+    
+      "name": "TODOPELOTA TV",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Infantiles.png",
+      "stations": [
+			{
+			"name": "AGENDA",
+			"image": "https://www.tvplusgratis.com/img/americatv.png",
+			"url": "https://todopelotatvhd.com/",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
+			"url": "https://todopelotatvhd.com/en-directo/espn-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN 2",
+			"image": "https://todopelotatvhd.com/img/ESPN%202.png",
+			"url": "https://todopelotatvhd.com/en-directo/espn-2-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+			{
+			"name": "ESPN 3",
+			"image": "https://todopelotatvhd.com/img/ESPN%203.png",
+			"url": "https://todopelotatvhd.com/en-directo/espn-3-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN EXTRA",
+			"image": "https://todopelotatvhd.com/img/ESPN%20EXTRA.png",
+			"url": "https://todopelotatvhd.com/en-directo/espn-extra-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN PREMIUN",
+			"image": "https://todopelotatvhd.com/img/ESPN%20PREMIUM.png",
+			"url": "https://todopelotatvhd.com/en-directo/espn-premium-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN DEPORTES",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://todopelotatvhd.com/en-directo/espn-deportes-usa",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS.png",
+			"url": "https://todopelotatvhd.com/en-directo/fox-sports-1-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS 2",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS%202.png",
+			"url": "https://todopelotatvhd.com/en-directo/fox-sports-2-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "FOX SPORTS 3",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS%203.png",
+			"url": "https://todopelotatvhd.com/en-directo/fox-sports-3-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "FOX SPORTS PREMIUN",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS%20PREMIUM.png",
+			"url": "https://todopelotatvhd.com/en-directo/fox-sports-premium-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "GOL PERÚ",
+			"image": "https://todopelotatvhd.com/img/GOL%20PERU.png",
+			"url": "https://todopelotatvhd.com/en-directo/gol-peru-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA 1 MAX",
+			"image": "https://todopelotatvhd.com/img/LIGA%201%20MAX.png",
+			"url": "https://todopelotatvhd.com/en-directo/liga-1-max-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TYC SPORTS",
+			"image": "https://todopelotatvhd.com/img/TYC%20SPORTS.png",
+			"url": "https://todopelotatvhd.com/en-directo/tyc-sports-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "DGO",
+			"image": "https://todopelotatvhd.com/img/DSPORTS.png",
+			"url": "https://todopelotatvhd.com/en-directo/dsports-en-vivo-por-internet",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+			{
+			"name": "DGO 2",
+			"image": "https://todopelotatvhd.com/img/DSPORTS%202.png",
+			"url": "https://todopelotatvhd.com/en-directo/dsports-2-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+			{
+			"name": "DGO + PLUS",
+			"image": "https://todopelotatvhd.com/img/DSPORTS+.png",
+			"url": "https://todopelotatvhd.com/en-directo/dsports-plus-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DAZN LIGA",
+			"image": "https://todopelotatvhd.com/img/DAZN%20LA%20LIGA.png",
+			"url": "https://todopelotatvhd.com/en-directo/dazn-la-liga-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DAZN LIGA 1",
+			"image": "https://todopelotatvhd.com/img/dazn1es.jpg",
+			"url": "https://todopelotatvhd.com/en-directo/dazn-1-es-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DAZN LIGA 2",
+			"image": "https://todopelotatvhd.com/img/dazn2es.jpg",
+			"url": "https://todopelotatvhd.com/en-directo/dazn-2-es-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "PREMIERE",
+			"image": "https://todopelotatvhd.com/img/premiere.jpg",
+			"url": "https://todopelotatvhd.com/en-directo/premiere-br-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TNT SPORTS",
+			"image": "https://todopelotatvhd.com/img/TNT%20SPORTS%20ARGENTINA.png",
+			"url": "https://todopelotatvhd.com/en-directo/tnt-sports-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "TUDN",
+			"image": "https://todopelotatvhd.com/img/TUDN.png",
+			"url": "https://todopelotatvhd.com/en-directo/tudn-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+
+
+
+
+
+
+
+
+}
+      ]
+    },
+    {
+    
+      "name": "STREAM TV",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Infantiles.png",
+      "stations": [
+			{
+			"name": "AGENDA",
+			"image": "https://www.tvplusgratis.com/img/americatv.png",
+			"url": "https://todopelotatvhd.com/",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
+			"url": "https://streamtp1.com/global1.php?stream=espn1",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN MX",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
+			"url": "https://streamtp1.com/global1.php?stream=espnmx",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN 2",
+			"image": "https://todopelotatvhd.com/img/ESPN%202.png",
+			"url": "https://streamtp1.com/global1.php?stream=espn2",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+			{
+			"name": "ESPN 3",
+			"image": "https://todopelotatvhd.com/img/ESPN%203.png",
+			"url": "https://streamtp1.com/global1.php?stream=espn3",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN EXTRA",
+			"image": "https://todopelotatvhd.com/img/ESPN%20EXTRA.png",
+			"url": "https://todopelotatvhd.com/en-directo/espn-extra-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN PREMIUN",
+			"image": "https://todopelotatvhd.com/img/ESPN%20PREMIUM.png",
+			"url": "https://streamtp1.com/global1.php?stream=espn_premium",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN DEPORTES",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=espn_deportes",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 5",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=espn5",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 6",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=espn6",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 7",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=espn7",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS.png",
+			"url": "https://streamtp1.com/global1.php?stream=fox1ar",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS MX",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS.png",
+			"url": "https://streamtp1.com/global1.php?stream=foxsportsmx",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "FOX SPORTS 2",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS%202.png",
+			"url": "https://streamtp1.com/global1.php?stream=fox2ar",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "FOX SPORTS 3",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS%203.png",
+			"url": "https://streamtp1.com/global1.php?stream=fox3ar",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "FOX SPORTS PREMIUN",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS%20PREMIUM.png",
+			"url": "https://streamtp1.com/global1.php?stream=foxsportspremium",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+	{
+			"name": "FOX DEPORTES",
+			"image": "https://todopelotatvhd.com/img/FOX%20SPORTS%20PREMIUM.png",
+			"url": "https://streamtp1.com/global1.php?stream=fox_deportes_usa",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "GOL PERÚ",
+			"image": "https://todopelotatvhd.com/img/GOL%20PERU.png",
+			"url": "https://streamtp1.com/global1.php?stream=golperu",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA 1 MAX",
+			"image": "https://todopelotatvhd.com/img/LIGA%201%20MAX.png",
+			"url": "https://streamtp1.com/global1.php?stream=l1max",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TYC SPORTS",
+			"image": "https://todopelotatvhd.com/img/TYC%20SPORTS.png",
+			"url": "https://streamtp1.com/global1.php?stream=tyc_sports",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "DGO",
+			"image": "https://todopelotatvhd.com/img/DSPORTS.png",
+			"url": "https://streamtp1.com/global1.php?stream=dsports",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+			{
+			"name": "DGO 2",
+			"image": "https://todopelotatvhd.com/img/DSPORTS%202.png",
+			"url": "https://streamtp1.com/global1.php?stream=dsports_2",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+			{
+			"name": "DGO + PLUS",
+			"image": "https://todopelotatvhd.com/img/DSPORTS+.png",
+			"url": "https://streamtp1.com/global1.php?stream=dsports_plus",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DAZN LIGA",
+			"image": "https://todopelotatvhd.com/img/DAZN%20LA%20LIGA.png",
+			"url": "https://streamtp1.com/global1.php?stream=dazn_laliga",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DAZN LIGA 1",
+			"image": "https://todopelotatvhd.com/img/dazn1es.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=dazn1",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DAZN LIGA 2",
+			"image": "https://todopelotatvhd.com/img/dazn2es.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=dazn2",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "PREMIERE",
+			"image": "https://todopelotatvhd.com/img/premiere.jpg",
+			"url": "https://todopelotatvhd.com/en-directo/premiere-br-en-vivo-por-internet",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TNT SPORTS",
+			"image": "https://todopelotatvhd.com/img/TNT%20SPORTS%20ARGENTINA.png",
+			"url": "https://streamtp1.com/global1.php?stream=tntsports_argentina",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "TUDN",
+			"image": "https://todopelotatvhd.com/img/TUDN.png",
+			"url": "https://streamtp1.com/global1.php?stream=tudn_usa",
+			"embed": "true",
+			"playInNatPlayer": "true"
+
+
+
+
+
+
+
+
+  
+
+ }
+      ]
+    },
+    {
+    
+      "name": "TV CABLE",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Infantiles.png",
+      "stations": [
+			{
+			"name": "AGENDA",
+			"image": "https://www.tvplusgratis.com/img/americatv.png",
+			"url": "https://tucanaldeportivo.org/agenda.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "STAR PLUS",
+			"image": "https://rojadirectaenhd.net/img/star+.jpg",
+			"url": "https://rojadirectaenhd.net/star-plus.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},{
+			"name": "VIX",
+			"image": "https://rojadirectaenhd.net/img/vix+.png",
+			"url": "https://rojadirectaenhd.net/vix-plus",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+					{
+			"name": "ESPN",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN 2",
+			"image": "https://portalbarranca.com/img/espn-2.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn-2.html",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+			{
+			"name": "ESPN 3",
+			"image": "https://portalbarranca.com/img/espn-3.png",
+			"url": "https://sandroptv.blogspot.com/2023/05/espn-3.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN 4",
+			"image": "https://portalbarranca.com/img/espn-4.png",
+			"url": "https://sandroptv.blogspot.com/2023/05/espn-4.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "ESPN PREMIUN",
+			"image": "https://portalbarranca.com/img/espn-premium.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv_12.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN DEPORTES",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn-deportes.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA MAX 1 roja",
+			"image": "https://portalbarranca.com/img/liga1-liga1-max.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-roja.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA MAX 1 pelota",
+			"image": "https://portalbarranca.com/img/liga1-liga1-max.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-1.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "MOVISTAR PERÚ",
+			"image": "https://portalbarranca.com/img/movistar-deportes.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/movistar-deportes.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "GOL PERÚ",
+			"image": "https://portalbarranca.com/img/golperu.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/gol-peru-2.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "DGO",
+			"image": "https://portalbarranca.com/img/directv-sports.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv_39.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+			{
+			"name": "DGO 2",
+			"image": "https://portalbarranca.com/img/directv-sports-2.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv-2.html",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+			{
+			"name": "DGO + PLUS",
+			"image": "https://portalbarranca.com/img/directv-sports-plus.png",
+			"url": "https://sandroptv.blogspot.com/2023/05/dgo-plus.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "TUDN MX",
+			"image": "https://portalbarranca.com/img/tudn.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/tudn.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+			{
+			"name": "BEIN SPORTS",
+			"image": "https://portalbarranca.com/img/bein-sports.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/bein.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+
+
+
+
+}
+      ]
+    },
+    {
+      "name": "CINE Y PELICULAS",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Eventuales.png",
+      "stations": [
+{
+                    "name": "CINEMUNDO PLUS",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/cinemundo_plus.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+                         
+       },
+       {
+ "name": "CRITICANDO PELIS",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/criticando_pelis.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_criticando_pelis.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},   
+
+{
+ "name": "Edwcp",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/edwcp.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_edwcp.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/edwcp"
+}, 
+
+{
+ "name": "BETO 7",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/beto_7hd.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_beto_7hd.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},   
+{
+ "name": "JUANCINE TV ",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/juancine_tv.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_juancine_tv.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+}, 
+{
+ "name": "CINEPLANET",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/cineplanet.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cineplanet.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},   
+ {
+                    "name": "NETFLIX",
+                    "image": "https://cdn.vaughnsoft.net/profile/1208/a_neflix01.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"},
+{
+ "name": "PUNTO MOVIES",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/punto_movies.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_punto_movies.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "PELICULAS MANIA",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/peliculas_mania.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/peliculas_mania"
+},
+{
+ "name": "CINE PELICULAS 507",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/cinepeliculas507.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinepeliculas507.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/cinepeliculas507"
+},
+{
+ "name": "ZONA FILMS TV",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/zonafilmstv.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_zonafilmstv.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/zonafilmstv"
+},
+{
+ "name": "X PELICULAS",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/xpeliculas.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_xpeliculas.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/xpeliculas"
+},
+{
+ "name": "RED 12",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/red12.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_red12.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "ZONA STEREO",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/zonastereo.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_zonastereo.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "SIMPSON MANIA",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/simpson_maniahd189.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "CINE PELICULAS PTY",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/peliculas_mania.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cinepeliculaspty.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/cinepeliculaspty"
+},
+{
+ "name": "PELICULAS 2022",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/peliculas2022.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas2022.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "VARIED TV",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/variedtv.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_variedtv.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "MOVIES Y SERIES",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/aa_movies_y_series.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_aa_movies_y_series.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "CINE CANDILEJAS",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/cine_candilejas.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cine_candilejas.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "MERLOCHANNELTV",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/merlochanneltv.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_merlochanneltv.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+{
+ "name": "CHINCHA TV",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/chinchatv.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_chinchatv.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+},
+ {
+			"name": "DRAGON BALL",
+			"image": "https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c2ee418ef8fa_v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+			"url": "https://m.twitch.tv/oliveratomdragon",
+			"embed": "true",
+			"playInNatPlayer": "true"
+	
+
+        
+
+
+
+}
+      ]
+    },
+    {
+ 
+      "name": "EVENTOS",
+      "image": "https://images8.alphacoders.com/476/476725.jpg",
+      "stations": [
+{
+			"name": "EXTREMO HP",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/extremohp.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "EXTREMO EXTRA",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/espnpremium.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "EXTREMO UNO",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/extremouno.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "LIGA CAMPEONES",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/ligadecampeones.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "LIGA CAMPEONES 4",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/ligadecampeones4.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "LIGA CAMPEONES 4",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/tntargentina.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "LIGA CAMPEONES 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/ligadecampeones2.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "EXTREMO LENOVO",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/extremolenovo.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "EXTREMO HUAWEI",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/extremohuawei.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "DIRECTATV GOL PERU",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.directatvhd.me/gol-peru-en-vivo.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "DIRECTATV DGO",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.directatvhd.me/directv-sport-en-vivo.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "DIRECTV GO",
+			"image": "https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+			"url": "https://tucanaldeportivo.org/directvsports.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "DIRECTATV UDN",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.directatvhd.me/udn-en-vivo.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "DIRECTATV AZTECA 7",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.directatvhd.me/azteca-7-en-vivo.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "MOVISTAR ESPAÑA",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.directatvhd.me/movistar.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "BEIN CANAL",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://sportsonline.sx/channels/hd/hd5.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+},
+{
+			"name": "FOX DEPORTES",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.directatvhd.me/Fox%20Deportes.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "EVENTO 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "http://nowlive1.me/1/103.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tiogol.com/?stream=espn",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=espn2",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 3",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://streamtp1.com/global1.php?stream=espn3",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "LIGA 1 MAX",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://streamtp1.com/global2.php?stream=l1max",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "BRASILERAO HD",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.directatvhd.me/BrasileiroPlay.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "DIRECTATV STAR + HD",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://worldstvmobile.com/category/sports/beINSPORTSXTRAenEspanol.us/beIN%20SPORTS%20XTRA%20en%20Espanol",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "L1 MAX",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://sandroptv.blogspot.com/2024/02/l1-max.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN PREMIUN HD",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/espnpremium.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO 2 HD",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/canal2.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO 3 HD",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/canal3.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO 4 HD",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/canal4.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO liga 1 MAX",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capoplayer.net/play/liga1max.phpp",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO liga 1 MAX",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://la12hd.com/vivo/canal.php?stream=liga1max",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO 44",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capoplayer.net/play/canal44.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO 27",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capoplayer.net/play/canal27.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "CAPO 28",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capoplayer.net/play/canal28.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN PREMIUN HD",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://www.capofut.net/play/espnpremium.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			
+
+
+
+
+
+
+
+
+
+
+}
+      ]
+    },
+    {
+ 
+      "name": "TV FUTBOL",
+      "image": "https://images8.alphacoders.com/476/476725.jpg",
+      "stations": [
+{
+			"name": "GOL PERU",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/117",
+			"userAgent": "exoplayer_video",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "ESPN 3",
+			"image": "https://ligatv.televall.online/gallery/espn-3-mexico_thumb.png",
+			"url": "https://tucanaldeportivo.org/espn3-hd.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "L1 MAX",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/122",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN INGLES",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/76",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/107",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/108",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/115",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 3",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/109",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 3",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/116",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 4",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/114",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 4",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/110",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 5",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/124",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 7",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/127",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN DEPORTES",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/125",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN PREMIUN",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/104",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/111",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/112",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX DEPORTES",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/126",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TNT SPORTS",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/118",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TNT SPORTS",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/103",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DIRECTV SPORTS",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/123",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "BEIN SPORTS",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/101",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "GOL TV",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/102",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA TV SPORTS",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/60",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA DE CAMPEONES",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/64",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA DE CAMPEONES 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tutvlive.info/mpd/tvfhd.php?sTL1?id=70",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA DE CAMPEONES 3",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/68",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DEPORTES",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/67",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "+ VAMOS",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/71",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DAZN 4",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/80",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DAZN 1",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/81",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DAZN 2",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/82",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DAZN 3",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/83",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DAZN 4",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/84",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "PREMIERE",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/155",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS PREMIUN",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/113",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TUDN",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/100",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "BEIN",
+			"image": "https://images8.alphacoders.com/476/476725.jpg",
+			"url": "https://tarjetarojaenvivo.lat/player/3/1",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+      ]
+    },
+    {
+ 
+      "name": "TELE EXTREMA",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Deportivos.png",
+      "stations": [
+			{
+			"name": "AGENDA",
+			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
+			"url": "https://tucanaldeportivo.org/agenda.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "AFIZZIONADOS",
+			"image": "https://www.telextrema.com/imge/afizzionados.png",
+			"url": "https://www.telegratishd.com/izzi-afizzionados-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "AZTECA 7",
+			"image": "https://www.telextrema.com/imge/azteca7.png",
+			"url": "https://www.telegratishd.com/azteca-7-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "BEIN LIGA",
+			"image": "https://www.telextrema.com/imge/beinlaliga.png",
+			"url": "https://www.telegratishd.com/bein-la-liga-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "CANAL 5",
+			"image": "https://www.telextrema.com/imge/canal5.png",
+			"url": "https://www.telegratishd.com/canal-5-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DIRECTV SPORTS",
+			"image": "https://www.telextrema.com/imge/directvsports.png",
+			"url": "https://embed.telextrema.com/directvsports.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DIRECTV SPORTS 2",
+			"image": "https://www.telegratishd.com/imge/directvsports2.png",
+			"url": "https://www.tvplusgratis.com/directv-sports-2-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DIRECTV PLUS",
+			"image": "https://www.telegratishd.com/imge/directvsportsplus.png",
+			"url": "https://www.telextrema.com/directv-sports-plus-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DISTRITO COMEDIA",
+			"image": "https://www.telelatinohd.com/imge/distritocomedia.png",
+			"url": "https://embed.telextrema.com/distritocomedia.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN",
+			"image": "https://www.telextrema.com/imge/espn.png",
+			"url": "https://embed.telextrema.com/espn.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 2",
+			"image": "https://www.telextrema.com/imge/espn2.png",
+			"url": "https://embed.telextrema.com/espn2.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 3",
+			"image": "https://www.telextrema.com/imge/espn3.png",
+			"url": "https://embed.telextrema.com/espn3.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN MX",
+			"image": "https://www.telextrema.com/imge/espn.png",
+			"url": "https://embed.telextrema.com/espnmexico.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 2 MX",
+			"image": "https://www.telextrema.com/imge/espn2.png",
+			"url": "https://embed.telextrema.com/espn2mexico.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN 3 MX",
+			"image": "https://www.telextrema.com/imge/espn3.png",
+			"url": "https://embed.telextrema.com/espn3mexico.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "ESPN DEPORTES",
+			"image": "https://www.telelatinohd.com/imge/espndeportes.png",
+			"url": "https://www.telelatinohd.com/espn-deportes-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "STAR ACTION",
+			"image": "https://www.telelatinohd.com/imge/staraction.png",
+			"url": "https://www.telegratishd.com/star-action-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS",
+			"image": "https://www.telextrema.com/imge/foxsports.png",
+			"url": "https://embed.telextrema.com/foxsports.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORT 2",
+			"image": "https://www.telextrema.com/imge/foxsports2.png",
+			"url": "https://embed.telextrema.com/foxsports2.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS 3",
+			"image": "https://www.telextrema.com/imge/foxsports3.png",
+			"url": "https://embed.telextrema.com/foxsports3.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS MX",
+			"image": "https://www.telextrema.com/imge/foxsports.png",
+			"url": "https://embed.telextrema.com/foxsportsmexico.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS 2 MX",
+			"image": "https://www.telextrema.com/imge/foxsports2.png",
+			"url": "https://embed.telextrema.com/foxsports2mexico.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS 3 MX",
+			"image": "https://www.telextrema.com/imge/foxsports3.png",
+			"url": "https://embed.telextrema.com/foxsports3mexico.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "FOX SPORTS PREMIUN",
+			"image": "https://www.telelatinohd.com/imge/foxsportspremium.png",
+			"url": "https://embed.telextrema.com/foxsportspremium.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "GOLDEN",
+			"image": "https://www.telegratishd.com/imge/golden.png",
+			"url": "https://www.telegratishd.com/golden-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "GOLDEN EDGE",
+			"image": "https://www.telelatinohd.com/imge/goldenedge.png",
+			"url": "https://embed.telextrema.com/goldenedge.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "GOLDEN PLUS",
+			"image": "https://www.telelatinohd.com/imge/goldenplus.png",
+			"url": "https://embed.telextrema.com/goldenplus.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "GOLDEN PREMIER",
+			"image": "https://www.telelatinohd.com/imge/goldenpremier.png",
+			"url":"https://embed.telextrema.com/goldenpremier.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LAS ESTRELLAS",
+			"image": "https://www.telelatinohd.com/imge/lasestrellas.png",
+			"url": "https://embed.telextrema.com/lasestrellas.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TELEMUNDO",
+			"image": "https://www.telelatinohd.com/imge/telemundopuertorico.png",
+			"url": "https://www.telegratishd.com/telemundo-51-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "UNIVISION",
+			"image": "https://www.telegratishd.com/imge/univision.png",
+			"url": "https://www.telegratishd.com/univision-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TNT",
+			"image": "https://www.telelatinohd.com/imge/tnt.png",
+			"url": "https://embed.telextrema.com/tnt.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TNT SPORTS",
+			"image": "https://www.telelatinohd.com/imge/tntsports.png",
+			"url": "https://embed.telextrema.com/tntsports.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TUDN",
+			"image": "https://www.telextrema.com/imge/tudn.png",
+			"url": "https://embed.telextrema.com/tudn.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "CARACOL",
+			"image": "https://www.telegratishd.com/imge/caracol.png",
+			"url": "https://www.telegratishd.com/caracol-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "DISCOVERY TURBO",
+			"image": "https://www.telegratishd.com/imge/discoveryturbo.png",
+			"url": "https://www.telegratishd.com/discovery-turbo-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "STAR CHANNEL",
+			"image": "https://www.telegratishd.com/imge/starchannel.png",
+			"url": "https://www.telegratishd.com/star-channel-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "MULTI PREMIER",
+			"image": "https://www.telegratishd.com/imge/multipremier.png",
+			"url": "https://www.telegratishd.com/multipremier-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "RCN",
+			"image": "https://www.telegratishd.com/imge/rcn.png",
+			"url": "https://www.telegratishd.com/rcn-en-vivo.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "TYC SPORTS",
+			"image": "https://www.telextrema.com/imge/tycsports.png",
+			"url": "https://embed.telextrema.com/tycsports.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "WARNER BROS TV",
+			"image": "https://www.telelatinohd.com/imge/warnerbrostv.png",
+			"url": "https://embed.telextrema.com/warnerbrostv.html",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+}
+      ]
+    },
+    {
+      "name": "TWITCH TV",
+      "image": "https://acortar.link/FdnDbg",
+      "stations": [
+{          "name": "DISCOVERY",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=dt_yy83&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+
+{          "name": "WARNER",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=2war011&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "CARACOL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=co_99tr&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "STAR CHANNEL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=100ty05kk&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "LATINA",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=lt_001x&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=dragonballztvo&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=dragonballztw&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=dragonballztw&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=dragon_ball_ztv&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=natitsu&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=vc_angel2&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=lateoriadel8&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "DRAGON BALL",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=atticus_gg&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+
+{
+			"name": "EL CHIRINGUITO",
+			"image":"https://acortar.link/FdnDbg",
+			"url": "https://player.twitch.tv/?channel=elchiringuitotv&parent=tdtchannels.com&parent=www.tdtchannels.com",
+			"userAgent": "exoplayer_video",
+			"isHost": "true"
+			},
+
+{          "name": "AL FONDO HAY SITIO",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=alfondohaysitiotvgo&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+        },
+{          "name": "HBO",
+          "image": "https://acortar.link/FdnDbg",
+          "url": "https://player.twitch.tv/?channel=dor141xc&parent=tdtchannels.com&parent=www.tdtchannels.com",
+          "embed": "true"
+      
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+        }
+      ]
+    },
+
+ {
+      "name": "Deportivos",
+      "image": "https://images8.alphacoders.com/476/476725.jpg",
+      "stations": [
+	  
+			
+			{
+			"name": "MONDIALO",
+			"image": "https://d500.epimg.net/cincodias/imagenes/2015/06/22/lifestyle/1434976181_546636_1434976580_noticia_normal.jpg",
+			"url": "https://tucanaldeportivo.org/agenda.php",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+			{
+			"name": "MOVISTAR 2",
+			"image":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+			"url": "https://sportsonline.sx/channels/hd/hd6.php",
+			"userAgent": "exoplayer_video",
+			"isHost": "true"
+			},
+			{
+			"name": "DIRECTV GO",
+			"image": "https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+			"url": "https://tucanaldeportivo.org/directvsports.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+			
+          
+        
+        }
+      ]
+    }
+  ]
+}
