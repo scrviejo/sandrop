@@ -27,6 +27,12 @@
 			"playInNatPlayer": "true"
 			},
 {
+         "name": "Zona Deportes",
+         "image": "https://i.imgur.com/sjrn6Ii.png",
+         "url": "https://zonamovil.net",
+         "embed": true
+},
+{
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
 			"url": "https://tucanaldeportivo.org/golperu.php",
