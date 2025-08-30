@@ -409,7 +409,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
 			"url": "https://streamtpglobal.com/global2.php?stream=espnmx",
 			"embed": "true",
-			"playInNatPlayer": "true"
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 			},
 			{
 			"name": "ESPN 2",
