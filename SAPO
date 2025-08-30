@@ -36,7 +36,7 @@
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
 			"url": "https://tucanaldeportivo.org/golperu.php",
-		"embed": "true",
+	    	"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 			},
@@ -59,7 +59,7 @@
 			"name": "LIGA 1 MAX SANDRO",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
 			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-betano.html",
-		"embed": "true",
+		    "embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 			},
@@ -68,7 +68,7 @@
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
 			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-1.html",
-		"embed": "true",
+	    	"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 			},
