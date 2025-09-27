@@ -29,7 +29,7 @@
 {
          "name": "Zona Deportes",
          "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://zonamovil.net",
+         "url": "https://streamtp22.com/",
          "embed": true
 },
 {
@@ -43,7 +43,7 @@
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/gol-peru/embed2.php",
+			"url": "https://deporte-libre.click/mpd2.php?id=golperu-op2",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -51,7 +51,7 @@
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
-			"url": "https://jac-tv.com/tv/golperu.php",
+			"url": "https://cointv.online/canales.php?id=golperu-op2",
 			"userAgent": "exoplayer_video",
 			"isHost": true
 			},
@@ -75,7 +75,15 @@
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://fuutbollibre.com/eventos.html?r=aHR0cHM6Ly92b29kYy5jb20vZW1iZWQvODU4MThiOThhNDhmYTI4NDg0N2E4NTlhYTA4Zjk4ODg4NDdjLmh0bWw=",
+			"url": "https://deporte-libre.click/en-vivo-online/liga1max/embed.php",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://streamtp22.com/global1.php?stream=liga1max",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -95,7 +103,7 @@
 {
 			"name": "LIGA 1 MAX",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://jac-tv.com/tv/liga1.php",
+			"url": "https://la14hd.com//vivo/canal.php?stream=liga1max",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
