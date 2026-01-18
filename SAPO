@@ -27,12 +27,6 @@
 			"playInNatPlayer": "true"
 			},
 {
-         "name": "Facebook",
-         "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://www.facebook.com/",
-         "embed": true
-},
-{
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
 			"url": "https://tucanaldeportivo.org/golperu.php",
@@ -241,7 +235,7 @@
 {
 			"name": "ESPN 2 HD",
 			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
-			"url": "https://deporte-libre.fans/en-vivo-online/espn-2/embed2.php",
+			"url": "https://elcanaldeportivo.com/espn2hd.php",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
