@@ -1043,6 +1043,20 @@
                   "referer":"https://vaughn.live/mangondelicioso"
 }, 
 {
+ "name": "GOKU TV OFICIAL ",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/goku_tv_oficial.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_goku_tv_oficial.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+}, 
+{
+ "name": "GOKU TV LATAM ",
+                    "image": "https://cdn.vaughnsoft.net/profile/1217/goku_tv_latam.jpg",
+                              "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_goku_tv_latam.flv",
+                  "userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+                  "referer":"https://vaughn.live/mangondelicioso"
+}, 
+{
  "name": "CINEPLANET",
                     "image": "https://cdn.vaughnsoft.net/profile/1217/cineplanet.jpg",
                               "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_cineplanet.flv",
