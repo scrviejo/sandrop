@@ -14,37 +14,12 @@
          "image": "https://i.imgur.com/sjrn6Ii.png",
          "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
          "embed": true
-  
-               
-               
-                        
-               
-            }
-         ]
-      }
-   ],
-   "stations": [
-  {
-         "name": "Sandro Deportes",
-         "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://sandroptv.blogspot.com/?m=1",
-         "embed": true
-      },
-      
-       {
-         "name": "Zona Deportes",
-         "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://zonamovil.net",
-         "embed": true
-      }    
-  ]
+	
+ 
 }
-
-
-
-
-
-   { 
+      ]
+    },
+    {
     
       "name": "FUTBOL DE PERÚ",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
@@ -2435,8 +2410,28 @@
 			
           
         
-        }
-      ]
-    }
+     
+               
+               
+                        
+               
+            }
+         ]
+      }
+   ],
+   "stations": [
+  {
+         "name": "Sandro Deportes",
+         "image": "https://i.imgur.com/sjrn6Ii.png",
+         "url": "https://sandroptv.blogspot.com/?m=1",
+         "embed": true
+      },
+      
+       {
+         "name": "Zona Deportes",
+         "image": "https://i.imgur.com/sjrn6Ii.png",
+         "url": "https://zonamovil.net",
+         "embed": true
+      }    
   ]
 }
