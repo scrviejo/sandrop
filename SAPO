@@ -3,20 +3,118 @@
   "author": "Sapo",
   "url": "https://raw.githubusercontent.com/scrviejo/sandrop/refs/heads/main/SAPO",
   "image": "https://images8.alphacoders.com/476/476725.jpg",
-  "info": "SANDROP",  
+  "info": "SANDROP",
   "groups": [
-
- { 
-         "name": "Deportes",
-         "image": "https://i.imgur.com/ExU2ep3.png",
-         "stations": [ 
-              {
+    { 
+    
+      "name": "FUTBOL DE PERÚ",
+      "image": "https://images8.alphacoders.com/476/476725.jpg",
+      "stations": [
+			{
+			"name": "AGENDA",
+			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
+			"url": "https://tucanaldeportivo.org/agenda.php",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+ {
          "name": "Sandro Deportes",
          "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
+         "url": "https://sandroptv.blogspot.com/?m=1",
          "embed": true
-  
-}
+      },
+{
+			"name": "SANDRO TV",
+			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
+			"url": "https://sandroptv.blogspot.com/2023/03/sapos.html",
+			"embed": "true",
+			"playInNatPlayer": "true"
+			},
+{
+			"name": "GOL PERU HD",
+			"image": "https://www.telegratishd.com/imge/golperu.png",
+			"url": "https://tucanaldeportivo.org/golperu.php",
+	    	"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+{
+			"name": "GOL PERU HD",
+			"image": "https://www.telegratishd.com/imge/golperu.png",
+			"url": "https://deporte-libre.click/mpd2.php?id=golperu-op2",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+{
+			"name": "GOL PERU HD",
+			"image": "https://www.telegratishd.com/imge/golperu.png",
+			"url": "https://cointv.online/canales.php?id=golperu-op2",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA 1 MAX SANDRO",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-betano.html",
+		    "embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://la14hd.com/vivo/canal.php?stream=liga1max&autoplay=1",
+	    	"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://deporte-libre.click/en-vivo-online/liga1max/embed.php",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://streamtp22.com/global1.php?stream=liga1max",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			},
+{
+			"name": "LIGA 1 MAX HD",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://jac-tv.com/tv/liga1.php",
+			"userAgent": "exoplayer_video",
+			"isHost": true
+			},
+{
+			"name": "LIGA 1 MAX","image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": 		"http://31.42.185.216:8000/GregorioS/Santos52/159457",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+			},
+{
+			"name": "LIGA 1 MAX",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://la14hd.com//vivo/canal.php?stream=liga1max",
+			"embed": "true",
+			"playInNatPlayer": "true",
+			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+			
+
+
+
+
+
+      
+
+
+ }
       ]
     },
     {
