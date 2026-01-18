@@ -20,7 +20,7 @@
  {
          "name": "Sandro Deportes",
          "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://sandroptv.blogspot.com/?m=1",
+         "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
          "embed": true
       },
 {
@@ -396,7 +396,7 @@
 {
 			"name": "ESPN 2 HD",
 			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
-			"url": "https://elcanaldeportivo.com/espn2hd.php",
+			"url": "https://elcanaldeportivo.com/espn2hd.php?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
