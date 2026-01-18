@@ -13,23 +13,9 @@
          "name": "Sandro Deportes",
          "image": "https://i.imgur.com/sjrn6Ii.png",
          "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
-         "embed": true
-	
- 
-}
+         "embed": true }
     
-    {
-    
-      "name": "FUTBOL DE PERÚ",
-      "image": "https://images8.alphacoders.com/476/476725.jpg",
-      "stations": [
-			{
-			"name": "AGENDA",
-			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
-			"url": "https://tucanaldeportivo.org/agenda.php",
-			"embed": "true",
-			"playInNatPlayer": "true"
-			},
+   
 {
 			"name": "SANDRO TV",
 			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
