@@ -1,4 +1,50 @@
- {
+{ 
+   "name": "Web Deportes",
+   "author": "SandroP",
+   "url": "",
+   "image": "https://i.imgur.com/5rjqSPj.png",
+   "info": "Prueba",
+   "groups": [ 
+      { 
+         "name": "Deportes",
+         "image": "https://i.imgur.com/ExU2ep3.png",
+         "stations": [ 
+              {
+         "name": "Sandro Deportes",
+         "image": "https://i.imgur.com/sjrn6Ii.png",
+         "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
+         "embed": true
+  
+               
+               
+                        
+               
+            }
+         ]
+      }
+   ],
+   "stations": [
+  {
+         "name": "Sandro Deportes",
+         "image": "https://i.imgur.com/sjrn6Ii.png",
+         "url": "https://sandroptv.blogspot.com/?m=1",
+         "embed": true
+      },
+      
+       {
+         "name": "Zona Deportes",
+         "image": "https://i.imgur.com/sjrn6Ii.png",
+         "url": "https://zonamovil.net",
+         "embed": true
+      }    
+  ]
+}
+
+
+
+
+
+{
   "name": "SANDROP 2025",
   "author": "Sapo",
   "url": "https://raw.githubusercontent.com/scrviejo/sandrop/refs/heads/main/SAPO",
@@ -107,38 +153,7 @@
 
 
 
-      { 
-         "name": "Deportes",
-         "image": "https://i.imgur.com/ExU2ep3.png",
-         "stations": [ 
-              {
-         "name": "Sandro Deportes",
-         "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
-         "embed": true
- 
- 
- 
- 
- 
-            }
-         ]
-      }
-   ],
-   "stations": [
-  {
-         "name": "Sandro Deportes",
-         "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://sandroptv.blogspot.com/?m=1",
-         "embed": true
-      },
- 
-       {
-         "name": "Zona Deportes",
-         "image": "https://i.imgur.com/sjrn6Ii.png",
-         "url": "https://zonamovil.net",
-         "embed": true
-
+      
 
 
  }
