@@ -14,9 +14,8 @@
 			"name": "AGENDA",
 			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
 			"url": "https://tucanaldeportivo.org/agenda.php?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true"
-			},
+			"embed": true
+},
  {
          "name": "Sandro Deportes",
          "image": "https://i.imgur.com/ExU2ep3.png",
@@ -27,31 +26,25 @@
 			"name": "SANDRO TV",
 			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
 			"url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true"
+        	"embed": true
 			},
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
 			"url": "https://tucanaldeportivo.org/golperu.php?m=1",
-	    	"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+ 	        "embed": true
+},
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
 			"url": "https://deporte-libre.click/mpd2.php?id=golperu-op2?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
 			"url": "https://cointv.online/canales.php?id=golperu-op2?m=1",
-			"userAgent": "exoplayer_video",
-			"isHost": true
+			"embed": true
 			},
 {
 			"name": "LIGA 1 MAX SANDRO",
@@ -64,32 +57,25 @@
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
 			"url": "https://la14hd.com/vivo/canal.php?stream=liga1max&autoplay=1?m=1",
-	    	"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+	    	"embed": true
+},
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
 			"url": "https://deporte-libre.click/en-vivo-online/liga1max/embed.php?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
 			"url": "https://streamtp22.com/global1.php?stream=liga1max?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
 			"url": "https://jac-tv.com/tv/liga1.php?m=1",
-			"userAgent": "exoplayer_video",
-			"isHost": true
+			"embed": true
 			},
 {
 			"name": "LIGA 1 MAX","image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
@@ -100,50 +86,38 @@
 			"name": "ESPN",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/espn.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "ESPN 2",
 			"image": "https://portalbarranca.com/img/espn-2.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/espn-2.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "ESPN 3",
 			"image": "https://portalbarranca.com/img/espn-3.png",
 			"url": "https://sandroptv.blogspot.com/2023/05/espn-3.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "ESPN 4",
 			"image": "https://portalbarranca.com/img/espn-4.png",
 			"url": "https://sandroptv.blogspot.com/2023/05/espn-4.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "ESPN PREMIUN",
 			"image": "https://portalbarranca.com/img/espn-premium.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/directv_12.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN DEPORTES",
 			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
 			"url": "https://sandroptv.blogspot.com/2023/03/espn-deportes.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "LIGA MAX 1 roja",
 			"image": "https://portalbarranca.com/img/liga1-liga1-max.png",
@@ -156,26 +130,20 @@
 			"name": "LIGA MAX 1 pelota",
 			"image": "https://portalbarranca.com/img/liga1-liga1-max.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-1.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "MOVISTAR PERÚ",
 			"image": "https://portalbarranca.com/img/movistar-deportes.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/movistar-deportes.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "GOL PERÚ",
 			"image": "https://portalbarranca.com/img/golperu.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/gol-peru-2.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "DGO",
 			"image": "https://portalbarranca.com/img/directv-sports.png",
@@ -183,38 +151,35 @@
 			"userAgent": "exoplayer_video",
 			"isHost": true
 			},
+{
+			"name": "DGO",
+			"image": "https://portalbarranca.com/img/directv-sports.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv_39.html?m=1",
+			"embed": true
+			},
 			{
 			"name": "DGO 2",
 			"image": "https://portalbarranca.com/img/directv-sports-2.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/directv-2.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 			{
 			"name": "DGO + PLUS",
 			"image": "https://portalbarranca.com/img/directv-sports-plus.png",
 			"url": "https://sandroptv.blogspot.com/2023/05/dgo-plus.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "TUDN MX",
 			"image": "https://portalbarranca.com/img/tudn.png",
 			"url": "https://sandroptv.blogspot.com/2023/03/tudn.html?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "LIGA 1 MAX",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
 			"url": "https://la14hd.com//vivo/canal.php?stream=liga1max?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			
+			"embed": true
 
 
 
@@ -239,299 +204,224 @@
 			"name": "DIRECTV GO",
 			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
 			"url": "https://sandroptv.blogspot.com/2024/08/dgos.html",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "DIRECTV GO",
 			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
 			"url": "https://tucanaldeportivo.org/dsports-sharecast.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 
 {
 			"name": "DIRECTV HD",
 			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
 			"url": "https://deporte-libre.futbol/en-vivo-online/dsports/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "DIRECTV 2",
 			"image": "https://lh3.googleusercontent.com/-mpyR1Shwq0U/Y-UlblE5I8I/AAAAAAAAGw8/2qfxqnrlSqQF7c2stKEAwxrvOAyX3EYiACNcBGAsYHQ/h120/DSports_2.png",
 			"url": "https://tucanaldeportivo.org/dsports2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "DIRECTV 2",
 			"image": "https://lh3.googleusercontent.com/-mpyR1Shwq0U/Y-UlblE5I8I/AAAAAAAAGw8/2qfxqnrlSqQF7c2stKEAwxrvOAyX3EYiACNcBGAsYHQ/h120/DSports_2.png",
 			"url": "https://deporte-libre.futbol/en-vivo-online/dsports-2/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "DIRECTV +",
 			"image": "https://www.telelatinohd.com/imge/directvsportsplus.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/dsports-plus/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
 			"url": "https://tucanaldeportivo.org/espnhd.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
 			"url": "https://tucanaldeportivo.org/espn-sharecast.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/espn/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN DEPORTES",
 			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
 			"url": "https://tucanaldeportivo.org/espndeportes.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN DEPORTES",
 			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
 			"url": "https://jac-tv.com/tv/espndepmx.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 2 HD",
 			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
 			"url": "https://tucanaldeportivo.org/espn2hd.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 2 HD",
 			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
 			"url": "https://tucanaldeportivo.org/espn2-sharecast.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 2 HD",
 			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
 			"url": "https://elcanaldeportivo.com/espn2hd.php?m=1",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 2 MX",
 			"image": "https://ligatv.televall.online/gallery/espn-2-mexico_thumb.png",
 			"url": "https://ligatv.televall.online/gallery/espn-2-mexico_thumb.png",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 3",
 			"image": "https://ligatv.televall.online/gallery/espn-3-mexico_thumb.png",
 			"url": "https://tucanaldeportivo.org/espn3hd.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 3",
 			"image": "https://ligatv.televall.online/gallery/espn-3-mexico_thumb.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/espn-3/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 4",
 			"image": "https://www.telegratishd.com/imge/espn4.png",
 			"url": "https://tucanaldeportivo.org/espn4.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN 4",
 			"image": "https://www.telegratishd.com/imge/espn4.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/espn-4/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS",
 			"image": "https://www.telegratishd.com/imge/foxsports.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS MX",
 			"image": "https://www.telegratishd.com/imge/foxsports.png",
 			"url": "https://tucanaldeportivo.org/foxsportsmx.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX DEPORTES",
 			"image": "https://tvcablegratis.tv/wp-content/uploads/2022/04/FOX-DEPORTES-1-160x240.jpg",
 			"url": "https://www.directatvhd.me/Fox%20Deportes.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS 2",
 			"image": "https://www.telegratishd.com/imge/foxsports2.png",
 			"url": "https://tucanaldeportivo.org/foxsports2mx.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS 2",
 			"image": "https://www.telegratishd.com/imge/foxsports2.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports-2/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS 3",
 			"image": "https://www.telegratishd.com/imge/foxsports3.png",
 			"url": "https://tucanaldeportivo.org/foxsports3.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS 3",
 			"image": "https://www.telegratishd.com/imge/foxsports3.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports-3/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS 3",
 			"image": "https://www.telegratishd.com/imge/foxsports3.png",
 			"url": "https://www.directatvhd.me/fox-sport-3-en-vivo.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN PREMIUN",
 			"image": "https://www.telegratishd.com/imge/espnpremium.png",
 			"url": "https://tucanaldeportivo.org/espnpremium.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "ESPN PREMIUN",
 			"image": "https://www.telegratishd.com/imge/espnpremium.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/espn-premium/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "TNT SPORTS SD",
 			"image": "https://www.telegratishd.com/imge/tntsports.png",
 			"url": "https://jac-tv.com/tv/tntsp.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "TNT SPORTS SD",
 			"image": "https://www.telegratishd.com/imge/tntsports.png",
 			"url": "https://tucanaldeportivo.org/tntsports.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "TUDN",
 			"image": "https://www.telegratishd.com/imge/tudn.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/tudn/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "TYC",
 			"image": "https://www.telegratishd.com/imge/tycsports.png",
 			"url": "https://tucanaldeportivo.org/tycsports-sd.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX DEPORTES",
 			"image": "https://tvcablegratis.tv/wp-content/uploads/2022/04/FOX-DEPORTES-2-160x240.jpg",
 			"url": "https://tucanaldeportivo.org/foxdeportes.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "MOVISTAR DEPORTES",
 			"image": "https://i.imgur.com/6VAaN8m.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/deportes-peru/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "DAZN LA LIGA",
 			"image": "https://www.telegratishd.com/imge/daznlaliga1.png",
 			"url": "https://deporte-libre.fans/en-vivo-online/dazn-1-es/embed2.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
+			"embed": true
+},
 {
 			"name": "FOX SPORTS PEMIUN",
 			"image": "https://www.telegratishd.com/imge/foxsportspremium.png",
 			"url": "https://tucanaldeportivo.org/foxsportspremium.php",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-
+			"embed": true
 
 
 
