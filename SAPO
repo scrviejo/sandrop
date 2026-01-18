@@ -13,7 +13,7 @@
 			{
 			"name": "AGENDA",
 			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
-			"url": "https://tucanaldeportivo.org/agenda.php",
+			"url": "https://tucanaldeportivo.org/agenda.php?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true"
 			},
@@ -33,7 +33,7 @@
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
-			"url": "https://tucanaldeportivo.org/golperu.php",
+			"url": "https://tucanaldeportivo.org/golperu.php?m=1",
 	    	"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -41,7 +41,7 @@
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
-			"url": "https://deporte-libre.click/mpd2.php?id=golperu-op2",
+			"url": "https://deporte-libre.click/mpd2.php?id=golperu-op2?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -49,14 +49,14 @@
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
-			"url": "https://cointv.online/canales.php?id=golperu-op2",
+			"url": "https://cointv.online/canales.php?id=golperu-op2?m=1",
 			"userAgent": "exoplayer_video",
 			"isHost": true
 			},
 {
 			"name": "LIGA 1 MAX SANDRO",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-betano.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-betano.html?m=1",
 		    "embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -65,7 +65,7 @@
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://la14hd.com/vivo/canal.php?stream=liga1max&autoplay=1",
+			"url": "https://la14hd.com/vivo/canal.php?stream=liga1max&autoplay=1?m=1",
 	    	"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -73,7 +73,7 @@
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://deporte-libre.click/en-vivo-online/liga1max/embed.php",
+			"url": "https://deporte-libre.click/en-vivo-online/liga1max/embed.php?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -81,7 +81,7 @@
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://streamtp22.com/global1.php?stream=liga1max",
+			"url": "https://streamtp22.com/global1.php?stream=liga1max?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -89,7 +89,7 @@
 {
 			"name": "LIGA 1 MAX HD",
 			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://jac-tv.com/tv/liga1.php",
+			"url": "https://jac-tv.com/tv/liga1.php?m=1",
 			"userAgent": "exoplayer_video",
 			"isHost": true
 			},
@@ -99,56 +99,9 @@
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
 			},
 {
-			"name": "LIGA 1 MAX",
-			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://la14hd.com//vivo/canal.php?stream=liga1max",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			
-
-
-
-
-
-      
-
-
- }
-      ]
-    },
-    {
-    
-      "name": "TV CABLE",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Infantiles.png",
-      "stations": [
-			{
-			"name": "AGENDA",
-			"image": "https://www.tvplusgratis.com/img/americatv.png",
-			"url": "https://tucanaldeportivo.org/agenda.php",
-			"embed": "true",
-			"playInNatPlayer": "true"
-			},
-{
-			"name": "STAR PLUS",
-			"image": "https://rojadirectaenhd.net/img/star+.jpg",
-			"url": "https://rojadirectaenhd.net/star-plus.html",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
-{
-			"name": "VIX",
-			"image": "https://rojadirectaenhd.net/img/vix+.png",
-			"url": "https://rojadirectaenhd.net/vix-plus",
-			"embed": "true",
-			"playInNatPlayer": "true",
-			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-			},
-					{
 			"name": "ESPN",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/espn.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -156,7 +109,7 @@
 			{
 			"name": "ESPN 2",
 			"image": "https://portalbarranca.com/img/espn-2.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/espn-2.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn-2.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -164,7 +117,7 @@
 			{
 			"name": "ESPN 3",
 			"image": "https://portalbarranca.com/img/espn-3.png",
-			"url": "https://sandroptv.blogspot.com/2023/05/espn-3.html",
+			"url": "https://sandroptv.blogspot.com/2023/05/espn-3.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -172,7 +125,7 @@
 			{
 			"name": "ESPN 4",
 			"image": "https://portalbarranca.com/img/espn-4.png",
-			"url": "https://sandroptv.blogspot.com/2023/05/espn-4.html",
+			"url": "https://sandroptv.blogspot.com/2023/05/espn-4.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -180,7 +133,7 @@
 			{
 			"name": "ESPN PREMIUN",
 			"image": "https://portalbarranca.com/img/espn-premium.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/directv_12.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv_12.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -188,7 +141,7 @@
 {
 			"name": "ESPN DEPORTES",
 			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
-			"url": "https://sandroptv.blogspot.com/2023/03/espn-deportes.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn-deportes.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -196,7 +149,7 @@
 {
 			"name": "LIGA MAX 1 roja",
 			"image": "https://portalbarranca.com/img/liga1-liga1-max.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-roja.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-roja.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -204,7 +157,7 @@
 {
 			"name": "LIGA MAX 1 pelota",
 			"image": "https://portalbarranca.com/img/liga1-liga1-max.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-1.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-1.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -212,7 +165,7 @@
 			{
 			"name": "MOVISTAR PERÚ",
 			"image": "https://portalbarranca.com/img/movistar-deportes.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/movistar-deportes.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/movistar-deportes.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -220,7 +173,7 @@
 			{
 			"name": "GOL PERÚ",
 			"image": "https://portalbarranca.com/img/golperu.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/gol-peru-2.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/gol-peru-2.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -228,14 +181,14 @@
 			{
 			"name": "DGO",
 			"image": "https://portalbarranca.com/img/directv-sports.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/directv_39.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv_39.html?m=1",
 			"userAgent": "exoplayer_video",
 			"isHost": true
 			},
 			{
 			"name": "DGO 2",
 			"image": "https://portalbarranca.com/img/directv-sports-2.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/directv-2.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv-2.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -243,7 +196,7 @@
 			{
 			"name": "DGO + PLUS",
 			"image": "https://portalbarranca.com/img/directv-sports-plus.png",
-			"url": "https://sandroptv.blogspot.com/2023/05/dgo-plus.html",
+			"url": "https://sandroptv.blogspot.com/2023/05/dgo-plus.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -251,23 +204,19 @@
 {
 			"name": "TUDN MX",
 			"image": "https://portalbarranca.com/img/tudn.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/tudn.html",
+			"url": "https://sandroptv.blogspot.com/2023/03/tudn.html?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 			},
-			{
-			"name": "BEIN SPORTS",
-			"image": "https://portalbarranca.com/img/bein-sports.png",
-			"url": "https://sandroptv.blogspot.com/2023/03/bein.html",
+{
+			"name": "LIGA 1 MAX",
+			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+			"url": "https://la14hd.com//vivo/canal.php?stream=liga1max?m=1",
 			"embed": "true",
 			"playInNatPlayer": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 			
-
-
-
-
 
 
 
