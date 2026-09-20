@@ -373,15 +373,15 @@
     			{
 			"name": "AGENDA",
 			"image": "https://www.tvplusgratis.com/img/americatv.png",
-			"url": "https://streamtpglobal.com/eventos.html",
+			"url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
 			"embed": "true",
 			"playInNatPlayer": "true"
 			},
 						{
 			"name": "TUDN",
 			"image": "https://todopelotatvhd.com/img/TUDN.png",
-			"url": "https://streamtpglobal.com/global2.php?stream=tudn_usa",
-			"embed": "true",
+			"url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
+			"m3u": "true",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 			
 
