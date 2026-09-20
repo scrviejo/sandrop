@@ -366,8 +366,8 @@
   "name": "STREAM TV",
   "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Infantiles.png",
   "m3u": [
-    "https://ejemplo.com/lista1.m3u",
-    "https://ejemplo.com/lista2.m3u"
+    "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
+   
   ],
   "stations": [
     			{
