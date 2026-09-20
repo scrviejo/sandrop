@@ -23,6 +23,12 @@
          "embed": true
       },
 {
+  "name": "SAPOTV (Lista M3U)",
+  "image": "[https://images8.alphacoders.com/476/476725.jpg](https://images8.alphacoders.com/476/476725.jpg)",
+  "type": "m3u",
+  "url": "[https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV](https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV)"
+},
+{
 			"name": "SANDRO TV",
 			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
 			"url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
