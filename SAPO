@@ -352,9 +352,28 @@
 			"url": "https://tvf90.com/3.php?stream=foxsportspremium",
 			"embed": true
 
+}
+      ]
+    },
+   
 
-
-	
+{
+  "name": "Sapo",
+  "author": "Sapo",
+  "url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
+  "image": "https://images8.alphacoders.com/476/476725.jpg",
+  "info": "SANDROP",
+  "groups": [
+    { 
+    
+      "name": "FUTBOL DE PERÚ",
+      "image": "https://images8.alphacoders.com/476/476725.jpg",
+      "stations": [
+			{
+			"name": "AGENDA",
+			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
+			"url": "https://canalesdeportivos.net/agenda.php",
+			"embed": true	
 
 
 
