@@ -58,6 +58,27 @@
           "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
           "embed": true
         },
+ {
+          "name": "LIGA 1 MAX",
+          "image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
+          "url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+        },
+{
+          "name": "DSports",
+          "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+          "options": [
+            {
+              "name": "DSports FULL HD",
+              "image": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
+              "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+              "license_type": "clearkey",
+              "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RbvVgvIg9Dj4lkUNgwaj8g\",\"k\":\"WCxrp/ZLvA8tkcawwmV2DA\"}],\"type\":\"temporary\"}",
+              "headers": {
+                "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+                "Referer": "https://www.primevideo.com/"
+              }
+            },
         {
           "name": "GOL PERU HD",
           "image": "https://www.telegratishd.com/imge/golperu.png",
