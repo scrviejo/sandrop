@@ -826,6 +826,11 @@
     }
   ]
 }
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tuservidor.com", Abrir Lista Secundaria
+#EXTVLCOPT:m3u-ext=true
+https://tuservidor.com
  {
       "name": "Eventos Deportivos",
       "image": "https://i.ibb.co/gLQxQwXM/events.png",
