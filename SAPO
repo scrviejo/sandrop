@@ -826,3 +826,8 @@
     }
   ]
 }
+ {
+      "name": "Eventos Deportivos",
+      "image": "https://i.ibb.co/gLQxQwXM/events.png",
+      "url": "https://eventosmundiales.pages.dev/agenda/index.w3u"
+    },
