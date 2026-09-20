@@ -1,7 +1,7 @@
 {
   "name": "SANDROP 2025",
   "author": "Sapo",
-  "url": "https://raw.githubusercontent.com/scrviejo/sandrop/refs/heads/main/SAPO",
+  "url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
   "image": "https://images8.alphacoders.com/476/476725.jpg",
   "info": "SANDROP",
   "groups": [
@@ -18,7 +18,7 @@
         {
           "name": "Sandro Deportes",
           "image": "https://i.imgur.com/ExU2ep3.png",
-          "url": "https://sandroptv.blogspot.com/2023/03/sapos.html?m=1",
+          "url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
           "embed": true
         }
       ]
