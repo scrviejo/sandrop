@@ -10,12 +10,13 @@
       "name": "FUTBOL DE PERÚ",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
       "stations": [
+			
 			{
-			"name": "AGENDA",
-			"image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
-			"url": "https://canalesdeportivos.net/agenda.php",
-			"embed": true
-},
+          "name": "Descarga mas listas",
+          "image": "https://i.ibb.co/ynyQvxg3/more.png",
+          "url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV",
+          "license_type": "website"
+        },
  {
          "name": "Sandro Deportes",
          "image": "https://i.imgur.com/ExU2ep3.png",
