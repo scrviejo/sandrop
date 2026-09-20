@@ -31,18 +31,6 @@
 {
 			"name": "GOL PERU HD",
 			"image": "https://www.telegratishd.com/imge/golperu.png",
-			"url": "https://tucanaldeportivo.org/golperu.php?m=1",
- 	        "embed": true
-},
-{
-			"name": "GOL PERU HD",
-			"image": "https://www.telegratishd.com/imge/golperu.png",
-			"url": "https://deporte-libre.click/mpd2.php?id=golperu-op2?m=1",
-			"embed": true
-},
-{
-			"name": "GOL PERU HD",
-			"image": "https://www.telegratishd.com/imge/golperu.png",
 			"url": "https://cointv.online/canales.php?id=golperu-op2?m=1",
 			"embed": true
 			},
@@ -52,34 +40,9 @@
 			"url": "https://sandroptv.blogspot.com/2023/03/liga-max-betano.html?m=1",
 		    "embed": true
 			},
-
-{
-			"name": "LIGA 1 MAX HD",
-			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://la14hd.com/vivo/canal.php?stream=liga1max&autoplay=1?m=1",
-	    	"embed": true
-},
-{
-			"name": "LIGA 1 MAX HD",
-			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://deporte-libre.click/en-vivo-online/liga1max/embed.php?m=1",
-			"embed": true
-},
-{
-			"name": "LIGA 1 MAX HD",
-			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://streamtp22.com/global1.php?stream=liga1max?m=1",
-			"embed": true
-},
-{
-			"name": "LIGA 1 MAX HD",
-			"image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": "https://jac-tv.com/tv/liga1.php?m=1",
-			"embed": true
-			},
 {
 			"name": "LIGA 1 MAX","image": "https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp",
-			"url": 		"http://31.42.185.216:8000/GregorioS/Santos52/159457",
+			"url": 		"http://170.244.209.30:8000/play/a1ir/index.m3u8",
 			"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
 			},
 {
@@ -188,7 +151,7 @@
     },
     {
  
-      "name": "TU CANAL DEPORTIVO",
+      "name": "DEPORTES",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
       "stations": [
 {
@@ -203,221 +166,195 @@
 			"url": "https://sandroptv.blogspot.com/2024/08/dgos.html",
 			"embed": true
 },
-{
-			"name": "DIRECTV GO",
-			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
-			"url": "https://tucanaldeportivo.org/dsports-sharecast.php",
-			"embed": true
-},
 
 {
 			"name": "DIRECTV HD",
 			"image": "https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp",
-			"url": "https://deporte-libre.futbol/en-vivo-online/dsports/embed2.php",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv.html",
 			"embed": true
 },
 {
 			"name": "DIRECTV 2",
 			"image": "https://lh3.googleusercontent.com/-mpyR1Shwq0U/Y-UlblE5I8I/AAAAAAAAGw8/2qfxqnrlSqQF7c2stKEAwxrvOAyX3EYiACNcBGAsYHQ/h120/DSports_2.png",
-			"url": "https://tucanaldeportivo.org/dsports2.php",
+			"url": "hhttps://sandroptv.blogspot.com/2023/03/directv-2.html",
 			"embed": true
 },
 {
 			"name": "DIRECTV 2",
 			"image": "https://lh3.googleusercontent.com/-mpyR1Shwq0U/Y-UlblE5I8I/AAAAAAAAGw8/2qfxqnrlSqQF7c2stKEAwxrvOAyX3EYiACNcBGAsYHQ/h120/DSports_2.png",
-			"url": "https://deporte-libre.futbol/en-vivo-online/dsports-2/embed2.php",
+			"url": "https://sandroptv.blogspot.com/2026/09/dsports-2.html",
 			"embed": true
 },
 {
-			"name": "DIRECTV +",
-			"image": "https://www.telelatinohd.com/imge/directvsportsplus.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/dsports-plus/embed2.php",
-			"embed": true
-},
-{
-			"name": "ESPN",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
-			"url": "https://canalesdeportivos.net/espnhd.php",
+			"name": "DIRECTV PLUS",
+			"image": "https://www.telegratis2.com/imge/directvsportsplus.webp",
+			"url": "https://sandroptv.blogspot.com/2026/09/dsports-plus.html",
 			"embed": true
 },
 {
 			"name": "ESPN",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
-			"url": "https://tucanaldeportivo.org/espn-sharecast.php",
+			"image": "https://www.telegratis2.com/imge/espn.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn.html",
 			"embed": true
 },
 {
 			"name": "ESPN",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/espn/embed2.php",
+			"image": "https://www.telegratis2.com/imge/espn.png",
+			"url": "https://sandroptv.blogspot.com/2026/09/espn-opc-2.html",
 			"embed": true
 },
 {
 			"name": "ESPN DEPORTES",
 			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
-			"url": "https://tucanaldeportivo.org/espndeportes.php",
-			"embed": true
-},
-{
-			"name": "ESPN DEPORTES",
-			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
-			"url": "https://jac-tv.com/tv/espndepmx.php",
+			"url": "https://sandroptv.blogspot.com/2026/09/espn-deportes.html",
 			"embed": true
 },
 {
 			"name": "ESPN 2 HD",
-			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
-			"url": "https://tucanaldeportivo.org/espn2hd.php",
+			"image": "https://www.telegratis2.com/imge/espn2.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn-2.html",
 			"embed": true
 },
 {
 			"name": "ESPN 2 HD",
-			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
-			"url": "https://tucanaldeportivo.org/espn2-sharecast.php",
-			"embed": true
-},
-{
-			"name": "ESPN 2 HD",
-			"image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
-			"url": "https://elcanaldeportivo.com/espn2hd.php?m=1",
+			"image": "https://www.telegratis2.com/imge/espn2.png",
+			"url": "https://sandroptv.blogspot.com/2023/03/espn-2-mexico.html",
 			"embed": true
 },
 {
 			"name": "ESPN 2 MX",
-			"image": "https://ligatv.televall.online/gallery/espn-2-mexico_thumb.png",
-			"url": "https://ligatv.televall.online/gallery/espn-2-mexico_thumb.png",
+			"image": "https://www.telegratis2.com/imge/espn2.png",
+			"url": "https://tvf90.com/3.php?stream=espn2mx",
 			"embed": true
 },
 {
 			"name": "ESPN 3",
-			"image": "https://ligatv.televall.online/gallery/espn-3-mexico_thumb.png",
-			"url": "https://tucanaldeportivo.org/espn3hd.php",
-			"embed": true
-},
-{
-			"name": "ESPN 3",
-			"image": "https://ligatv.televall.online/gallery/espn-3-mexico_thumb.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/espn-3/embed2.php",
+			"image": "https://www.telegratis2.com/imge/espn3.png",
+			"url": "https://sandroptv.blogspot.com/2023/05/espn-3.html",
 			"embed": true
 },
 {
 			"name": "ESPN 4",
 			"image": "https://www.telegratishd.com/imge/espn4.png",
-			"url": "https://tucanaldeportivo.org/espn4.php",
+			"url": "https://sandroptv.blogspot.com/2023/05/espn-4.html",
 			"embed": true
 },
 {
-			"name": "ESPN 4",
-			"image": "https://www.telegratishd.com/imge/espn4.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/espn-4/embed2.php",
+			"name": "ESPN 5",
+			"image": "https://www.telegratis2.com/imge/espn5.png",
+			"url": "https://sandroptv.blogspot.com/2026/09/espn-5.html",
+			"embed": true
+},
+{
+			"name": "ESPN 6",
+			"image": "https://www.telegratis2.com/imge/espn6.png",
+			"url": "https://sandroptv.blogspot.com/2026/09/espn-6.html",
+			"embed": true
+},
+{
+			"name": "ESPN 7",
+			"image": "https://www.telegratis2.com/imge/espn7.png",
+			"url": "https://sandroptv.blogspot.com/2026/09/espn-7.html",
 			"embed": true
 },
 {
 			"name": "FOX SPORTS",
 			"image": "https://www.telegratishd.com/imge/foxsports.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports/embed2.php",
+			"url": "https://tvf90.com/3.php?stream=foxsports",
 			"embed": true
 },
 {
 			"name": "FOX SPORTS MX",
 			"image": "https://www.telegratishd.com/imge/foxsports.png",
-			"url": "https://tucanaldeportivo.org/foxsportsmx.php",
+			"url": "https://tvf90.com/3.php?stream=foxsportsmx",
 			"embed": true
 },
 {
 			"name": "FOX DEPORTES",
-			"image": "https://tvcablegratis.tv/wp-content/uploads/2022/04/FOX-DEPORTES-1-160x240.jpg",
-			"url": "https://www.directatvhd.me/Fox%20Deportes.php",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZgCXeK49ensdoYDyApTmvhzmfeJt5JLsYBwiHa2I3A&s=10",
+			"url": "https://sandroptv.blogspot.com/2026/09/fox-deportes.html",
 			"embed": true
 },
 {
 			"name": "FOX SPORTS 2",
 			"image": "https://www.telegratishd.com/imge/foxsports2.png",
-			"url": "https://tucanaldeportivo.org/foxsports2mx.php",
+			"url": "https://tvf90.com/3.php?stream=foxsports2",
 			"embed": true
 },
 {
-			"name": "FOX SPORTS 2",
+			"name": "FOX SPORTS 2 MX",
 			"image": "https://www.telegratishd.com/imge/foxsports2.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports-2/embed2.php",
+			"url": "https://tvf90.com/3.php?stream=foxsports2mx",
 			"embed": true
 },
 {
 			"name": "FOX SPORTS 3",
 			"image": "https://www.telegratishd.com/imge/foxsports3.png",
-			"url": "https://tucanaldeportivo.org/foxsports3.php",
+			"url": "https://tvf90.com/3.php?stream=foxsports3",
 			"embed": true
 },
 {
 			"name": "FOX SPORTS 3",
 			"image": "https://www.telegratishd.com/imge/foxsports3.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/fox-sports-3/embed2.php",
-			"embed": true
-},
-{
-			"name": "FOX SPORTS 3",
-			"image": "https://www.telegratishd.com/imge/foxsports3.png",
-			"url": "https://www.directatvhd.me/fox-sport-3-en-vivo.php",
+			"url": "https://tvf90.com/3.php?stream=foxsports3mx",
 			"embed": true
 },
 {
 			"name": "ESPN PREMIUN",
 			"image": "https://www.telegratishd.com/imge/espnpremium.png",
-			"url": "https://tucanaldeportivo.org/espnpremium.php",
-			"embed": true
-},
-{
-			"name": "ESPN PREMIUN",
-			"image": "https://www.telegratishd.com/imge/espnpremium.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/espn-premium/embed2.php",
+			"url": "https://sandroptv.blogspot.com/2023/03/directv_12.html",
 			"embed": true
 },
 {
 			"name": "TNT SPORTS SD",
 			"image": "https://www.telegratishd.com/imge/tntsports.png",
-			"url": "https://jac-tv.com/tv/tntsp.php",
-			"embed": true
-},
-{
-			"name": "TNT SPORTS SD",
-			"image": "https://www.telegratishd.com/imge/tntsports.png",
-			"url": "https://tucanaldeportivo.org/tntsports.php",
+			"url": "https://sandroptv.blogspot.com/2023/03/tnt-sports.html",
 			"embed": true
 },
 {
 			"name": "TUDN",
 			"image": "https://www.telegratishd.com/imge/tudn.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/tudn/embed2.php",
+			"url": "https://sandroptv.blogspot.com/2023/03/tudn.html",
 			"embed": true
 },
 {
 			"name": "TYC",
 			"image": "https://www.telegratishd.com/imge/tycsports.png",
-			"url": "https://tucanaldeportivo.org/tycsports-sd.php",
+			"url": "https://tvf90.com/online.php?stream=tycsports",
 			"embed": true
 },
 {
 			"name": "FOX DEPORTES",
 			"image": "https://tvcablegratis.tv/wp-content/uploads/2022/04/FOX-DEPORTES-2-160x240.jpg",
-			"url": "https://tucanaldeportivo.org/foxdeportes.php",
+			"url": "https://sandroptv.blogspot.com/2026/09/fox-deportes.html",
 			"embed": true
 },
 {
 			"name": "MOVISTAR DEPORTES",
 			"image": "https://i.imgur.com/6VAaN8m.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/deportes-peru/embed2.php",
+			"url": "https://sandroptv.blogspot.com/2023/03/movistar-deportes.html",
 			"embed": true
 },
 {
 			"name": "DAZN LA LIGA",
 			"image": "https://www.telegratishd.com/imge/daznlaliga1.png",
-			"url": "https://deporte-libre.fans/en-vivo-online/dazn-1-es/embed2.php",
+			"url": "https://sandroptv.blogspot.com/2023/03/dazn-liga.html",
+			"embed": true
+},
+			"name": "BEIN XTRA ES",
+			"image": "https://www.telegratis2.com/imge/beinsportsxtra.webp",
+			"url": "https://sandroptv.blogspot.com/2026/09/bein-sport-xtra-espanol.html",
+			"embed": true
+},
+			"name": "BEIN SPORT Ñ",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCVdauwJ7EtrQNB6YCtoo8fI9NweOGDL2GdFc4uvLawSpDNlhZzj2xWnn&s=10",
+			"url": "https://sandroptv.blogspot.com/2023/03/bein-sports.html",
 			"embed": true
 },
 {
 			"name": "FOX SPORTS PEMIUN",
 			"image": "https://www.telegratishd.com/imge/foxsportspremium.png",
-			"url": "https://tucanaldeportivo.org/foxsportspremium.php",
+			"url": "https://tvf90.com/3.php?stream=foxsportspremium",
 			"embed": true
 
 
