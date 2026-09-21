@@ -56,10 +56,6 @@
           "image": "https://portalbarranca.com/img/golperu.png",
           "url": "https://sandroptv.blogspot.com/2023/03/gol-peru-2.html?m=1",
           "embed": true
-      
-
-
-
         }
       ]
     },
@@ -295,7 +291,6 @@
           "url": "https://www.latina.pe/tvenvivo",
           "embed": true
         },
-      
         {
           "name": "PANAMERICANA TV",
           "image": "http://peru.mom-gmr.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_039be0b331.png",
@@ -342,7 +337,7 @@
           "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
           "referer": "https://vaughn.live/megamovieshd"
         },
- {
+        {
           "name": "MEGA EXTREMO",
           "image": "https://cdn.vaughnsoft.net/profile/1217/mega_extremo.jpg",
           "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_mega_extremo.flv",
@@ -357,21 +352,21 @@
           "referer": "https://vaughn.live/megamundohd"
         },
         {
-          "name": "JUANCINE TV ",
+          "name": "JUANCINE TV",
           "image": "https://cdn.vaughnsoft.net/profile/1217/juancine_tv.jpg",
           "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_juancine_tv.flv",
           "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
           "referer": "https://vaughn.live/mangondelicioso"
         },
         {
-          "name": "GOKU TV OFICIAL ",
+          "name": "GOKU TV OFICIAL",
           "image": "https://cdn.vaughnsoft.net/profile/1217/goku_tv_oficial.jpg",
           "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_goku_tv_oficial.flv",
           "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
           "referer": "https://vaughn.live/mangondelicioso"
         },
         {
-          "name": "GOKU TV LATAM ",
+          "name": "GOKU TV LATAM",
           "image": "https://cdn.vaughnsoft.net/profile/1217/goku_tv_latam.jpg",
           "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_goku_tv_latam.flv",
           "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
@@ -474,10 +469,7 @@
           "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_aa_movies_y_series.flv",
           "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
           "referer": "https://vaughn.live/mangondelicioso"
-        
-
-
-}
+        }
       ]
     },
     {
@@ -615,13 +607,13 @@
       "name": "SAPOTV",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
       "url": "https://raw.githubusercontent.com/scrviejo/SAPOTV/refs/heads/main/SAPOTV"
-    }
-{
+    },
+    {
       "name": "SAPOTV 2",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
       "url": "http://38.52.200.209:8000/playlist.m3u8"
-    }
-{
+    },
+    {
       "name": "SAPOTV 3",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
       "url": "http://190.108.93.180:8000/playlist.m3u8"
