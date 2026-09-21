@@ -304,11 +304,10 @@
           "embed": true
         },
         {
-          "name": "TV PERU",
+          "name": "ATV",
           "image": "https://www.telegratishd.com/imge/tvperu.png",
           "url": "https://sandroptv.blogspot.com/2026/09/tv-peru.html",
-          "userAgent": "exoplayer_video",
-          "isHost": true
+          "embed": true
         }
       ]
     },
