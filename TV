@@ -12,7 +12,7 @@
         {
           "name": "AGENDA",
           "image": "https://pbs.twimg.com/profile_banners/1361659194248744961/1613480684/1500x500",
-          "url": "https://canalesdeportivos.net/agenda.php",
+          "url": "https://ibrafut.blogspot.com/?m=1",
           "embed": true
         },
         {
@@ -580,9 +580,9 @@
       "image": "https://images8.alphacoders.com/476/476725.jpg",
       "stations": [
         {
-          "name": "MONDIALO",
+          "name": "ROJA DIRECTA",
           "image": "https://d500.epimg.net/cincodias/imagenes/2015/06/22/lifestyle/1434976181_546636_1434976580_noticia_normal.jpg",
-          "url": "https://tucanaldeportivo.org/agenda.php",
+          "url": "https://rojadirectatvplus.com/agenda",
           "embed": true,
           "playInNatPlayer": true,
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
