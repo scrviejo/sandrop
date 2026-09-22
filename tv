@@ -1,7 +1,7 @@
 {
   "name": "SANDROP 2025",
   "author": "Sapo",
-  "url": "https://raw.githubusercontent.com/scrviejo/sandrop/refs/heads/main/TV",
+  "url": "https://raw.githubusercontent.com/scrviejo/sandrop/refs/heads/main/tv",
   "image": "https://images8.alphacoders.com/476/476725.jpg",
   "info": "SANDROP",
   "groups": [
@@ -605,7 +605,7 @@
     {
       "name": "SAPOTV",
       "image": "https://images8.alphacoders.com/476/476725.jpg",
-      "url": "https://raw.githubusercontent.com/scrviejo/TV2026/refs/heads/main/TV2026"
+      "url": "https://raw.githubusercontent.com/scrviejo/TV2026/refs/heads/main/tv2026.m3u"
     },
     {
       "name": "SAPOTV 2",
